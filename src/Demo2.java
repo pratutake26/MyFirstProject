@@ -12,6 +12,8 @@ public class Demo2 {
             driver.get("https://www.naukri.com/");
 
         }
+
+
 }
 
 
